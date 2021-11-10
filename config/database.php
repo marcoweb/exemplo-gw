@@ -5,5 +5,5 @@ return [
     'dbname'    => 'games',         // Database Name
     'charset'   => 'utf8',          // Database Charset
     'user'      => 'root',          // Database User
-    'password'  => 'MySQL#Root'     // Database Password
+    'password'  => ''     // Database Password
 ];
