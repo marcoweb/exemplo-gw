@@ -1,0 +1,1 @@
+INSERT INTO generos(nome) VALUES ('Aventura'), ('Policial');

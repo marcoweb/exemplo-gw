@@ -1,0 +1,8 @@
+CREATE DATABASE biblioteca;
+
+USE biblioteca;
+
+CREATE TABLE generos(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL
+);
